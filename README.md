@@ -1,5 +1,5 @@
 # Learn_C_Sharp
-Concepts_ C_ sharp
+Concepts_ C_ sharp + WPF
 
 Bank Application
 
@@ -15,6 +15,8 @@ user signup and log - file service
 
 login and session  - active session
 
+displays - menu items - accounts/money transfer/Fd/FAQ - static page + dynamic event/async processes 
+
   session uses ethernet connectivity ? - loopback/ private ip, accesses from db or file
   
   
@@ -22,3 +24,4 @@ thread/events/delegates for money transfer
 notifcation service - send read - status updates
 
 
+grip and composite layouts?
